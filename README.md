@@ -1,6 +1,6 @@
 # Simplex - Investigación de Operaciones
 
-Aplicativo para resolver ejercicios con el método simplex.
+Aplicativo para resolver ejercicios con el método simplex. Asignatura Investigación de Operaciones I. Uuniversidad Distrital.
 
 ### Integrantes
 
