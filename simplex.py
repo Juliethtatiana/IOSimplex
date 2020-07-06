@@ -9,6 +9,7 @@ Original file is located at
 **Simplex Estandar**
 """
 
+#Importación de Librerías
 import sys
 import numpy as np
 from fractions import Fraction
