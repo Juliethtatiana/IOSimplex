@@ -2,6 +2,9 @@
 
 Aplicativo para resolver ejercicios con el método simplex. Asignatura Investigación de Operaciones I. Uuniversidad Distrital.
 
+##  link  del software :
+https://colab.research.google.com/drive/1YT94rUNFLQdCtxxA7W8P7g4_BQaRWC0q?usp=sharing
+
 ##  link  del documento : 
 https://docs.google.com/document/d/1dR7J1Lbot5kgVxJE5tuiNRnaJruzrJ59Rq38SErn2j0/edit?usp=sharing
 
